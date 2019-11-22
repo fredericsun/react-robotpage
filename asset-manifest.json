@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-robotpage/static/css/main.afce3dcc.chunk.css",
+    "main.js": "/react-robotpage/static/js/main.1f8997af.chunk.js",
+    "main.js.map": "/react-robotpage/static/js/main.1f8997af.chunk.js.map",
+    "runtime-main.js": "/react-robotpage/static/js/runtime-main.6eaea879.js",
+    "runtime-main.js.map": "/react-robotpage/static/js/runtime-main.6eaea879.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/react-robotpage/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.7181e3f3.chunk.js": "/react-robotpage/static/js/2.7181e3f3.chunk.js",
+    "static/js/2.7181e3f3.chunk.js.map": "/react-robotpage/static/js/2.7181e3f3.chunk.js.map",
+    "index.html": "/react-robotpage/index.html",
+    "precache-manifest.4793cccebd0a84287ab07766e0af78af.js": "/react-robotpage/precache-manifest.4793cccebd0a84287ab07766e0af78af.js",
+    "service-worker.js": "/react-robotpage/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/react-robotpage/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.afce3dcc.chunk.css.map": "/react-robotpage/static/css/main.afce3dcc.chunk.css.map",
+    "static/media/App.css": "/react-robotpage/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6eaea879.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.7181e3f3.chunk.js",
+    "static/css/main.afce3dcc.chunk.css",
+    "static/js/main.1f8997af.chunk.js"
+  ]
+}
